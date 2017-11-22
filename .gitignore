@@ -5,9 +5,9 @@ ehthumbs.db
 Icon
 Thumbs.db
 .tmtags
-.idea
+.idea/
 tags
-vendor.tags
+vendgor.tags
 tmtagsHistory
 *.sublime-project
 *.sublime-workspace
